@@ -1,0 +1,5 @@
+C:\ElevenFiftyProjects\GoldBadgeChallenges\CafeRepository\bin\Debug\CafeRepository.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\CafeRepository\bin\Debug\CafeRepository.pdb
+C:\ElevenFiftyProjects\GoldBadgeChallenges\CafeRepository\obj\Debug\CafeRepository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgeChallenges\CafeRepository\obj\Debug\CafeRepository.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\CafeRepository\obj\Debug\CafeRepository.pdb

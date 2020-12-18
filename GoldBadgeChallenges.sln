@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_Cafe", "01_Cafe", "{43269056-7176-4C4E-B156-F1416CF36122}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_Claims", "02_Claims", "{14648ABF-4DA1-4E82-9CC6-9A5AC6DA3ED8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_Badges", "03_Badges", "{6ED737FE-619D-4687-92BC-45CFE41A5843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeConsole", "CafeConsole\CafeConsole.csproj", "{CF5B7549-7E02-42D2-BE18-FACE2A1D4E80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeRepository", "CafeRepository\CafeRepository.csproj", "{F2764E25-BB18-4B98-9A8A-65446EAE1E21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeUnitTestProject", "CafeUnitTestProject\CafeUnitTestProject.csproj", "{DD3E0624-173F-4C97-A4D2-C9C8C32DE388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF5B7549-7E02-42D2-BE18-FACE2A1D4E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5B7549-7E02-42D2-BE18-FACE2A1D4E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5B7549-7E02-42D2-BE18-FACE2A1D4E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5B7549-7E02-42D2-BE18-FACE2A1D4E80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2764E25-BB18-4B98-9A8A-65446EAE1E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2764E25-BB18-4B98-9A8A-65446EAE1E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2764E25-BB18-4B98-9A8A-65446EAE1E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2764E25-BB18-4B98-9A8A-65446EAE1E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD3E0624-173F-4C97-A4D2-C9C8C32DE388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3E0624-173F-4C97-A4D2-C9C8C32DE388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3E0624-173F-4C97-A4D2-C9C8C32DE388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3E0624-173F-4C97-A4D2-C9C8C32DE388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CF5B7549-7E02-42D2-BE18-FACE2A1D4E80} = {43269056-7176-4C4E-B156-F1416CF36122}
+		{F2764E25-BB18-4B98-9A8A-65446EAE1E21} = {43269056-7176-4C4E-B156-F1416CF36122}
+		{DD3E0624-173F-4C97-A4D2-C9C8C32DE388} = {43269056-7176-4C4E-B156-F1416CF36122}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EFD72B8-9871-4313-8DC4-65C3D9055D67}
+	EndGlobalSection
+EndGlobal
