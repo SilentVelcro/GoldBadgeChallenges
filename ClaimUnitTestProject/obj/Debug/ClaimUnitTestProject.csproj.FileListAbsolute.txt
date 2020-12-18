@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\GoldBadgeChallenges\ClaimUnitTestProject\obj\Debug\ClaimUnitTestProject.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadgeChallenges\ClaimUnitTestProject\obj\Debug\ClaimUnitTestProject.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgeChallenges\ClaimUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\ClaimUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\ClaimUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\ClaimUnitTestProject\bin\Debug\ClaimUnitTestProject.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\ClaimUnitTestProject\bin\Debug\ClaimUnitTestProject.pdb
+C:\ElevenFiftyProjects\GoldBadgeChallenges\ClaimUnitTestProject\bin\Debug\ClaimRepository.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\ClaimUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\ClaimUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\ClaimUnitTestProject\bin\Debug\ClaimRepository.pdb
+C:\ElevenFiftyProjects\GoldBadgeChallenges\ClaimUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\GoldBadgeChallenges\ClaimUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\GoldBadgeChallenges\ClaimUnitTestProject\obj\Debug\ClaimUnitTestProject.csproj.CopyComplete
+C:\ElevenFiftyProjects\GoldBadgeChallenges\ClaimUnitTestProject\obj\Debug\ClaimUnitTestProject.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\ClaimUnitTestProject\obj\Debug\ClaimUnitTestProject.pdb

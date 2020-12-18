@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\GoldBadgeChallenges\BadgeUnitTest\obj\Debug\BadgeUnitTest.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadgeChallenges\BadgeUnitTest\obj\Debug\BadgeUnitTest.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgeChallenges\BadgeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\BadgeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\BadgeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\BadgeUnitTest\bin\Debug\BadgeUnitTest.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\BadgeUnitTest\bin\Debug\BadgeUnitTest.pdb
+C:\ElevenFiftyProjects\GoldBadgeChallenges\BadgeUnitTest\bin\Debug\BadgeRepo.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\BadgeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\BadgeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\BadgeUnitTest\bin\Debug\BadgeRepo.pdb
+C:\ElevenFiftyProjects\GoldBadgeChallenges\BadgeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\GoldBadgeChallenges\BadgeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\GoldBadgeChallenges\BadgeUnitTest\obj\Debug\BadgeUnitTest.csproj.CopyComplete
+C:\ElevenFiftyProjects\GoldBadgeChallenges\BadgeUnitTest\obj\Debug\BadgeUnitTest.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\BadgeUnitTest\obj\Debug\BadgeUnitTest.pdb
